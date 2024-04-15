@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Returns inform about his/her (employee ID) TODO list progress"""
+"""Returns inform about his/her (employee ID) TODO list progress
+and export data in the json format"""
 
 from requests import get
 from sys import argv
